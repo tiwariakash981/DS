@@ -1,0 +1,40 @@
+import matplotlib.pyplot as plt
+##video no. 01.03.09
+
+
+ye video me bakaiti kiya hai isliye kuch nhi likha hu  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
